@@ -1,1 +1,3 @@
-let T ="Edgardo 4"
+let T = 'Edgardo 4';
+
+console.log('Hola Edgardo, soy Carlos');
